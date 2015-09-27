@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://121.40.151.159/go-nifty/app/G-Qingyun.ipa</string>
+					<string>http://121.40.151.159:8080/go-nifty/app/G-Qingyun.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://121.40.151.159/go-nifty/app/logo-57.png</string>
+					<string>http://121.40.151.159:8080/go-nifty/app/logo-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://121.40.151.159/go-nifty/app/logo-512.jpg</string>
+					<string>http://121.40.151.159:8080/go-nifty/app/logo-512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
