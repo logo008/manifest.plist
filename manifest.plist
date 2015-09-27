@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://smallhanger.com:8443/go-nifty/app/G-Qingyun.ipa</string>
+					<string>http://smallhanger.com/go-nifty/app/G-Qingyun.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://smallhanger.com:8443/go-nifty/app/logo-57.png</string>
+					<string>http://smallhanger.com/go-nifty/app/logo-57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://smallhanger.com:8443/go-nifty/app/logo-512.jpg</string>
+					<string>http://smallhanger.com/go-nifty/app/logo-512.jpg</string>
 				</dict>
 			</array>
 			<key>metadata</key>
